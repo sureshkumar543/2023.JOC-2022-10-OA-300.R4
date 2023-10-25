@@ -1,6 +1,7 @@
 # 2023.JOC-2022-10-OA-300.R4
 # <u>An Optimized Framework for Energy-Efficient Resource Allocation in Cloud Computing Using Hybridized Optimization Algorithm</u>
 # <u>Disclaimer<u>
+
 <p> The given solutions in this project are only for reference purposes.</p>
 # Description of Expirement
 <p>Selecting the most effective solution for NP-hard drives in cloud computing can be challenging due to the various solutions. To overcome that, we used a new framework called the Hybridized Optimization Algorithm combines Crow Swarm Optimization, Cuckoo Search Optimization, and Cat Hunting Optimization to create an ideal energy-efficient load-balancing model </p>
