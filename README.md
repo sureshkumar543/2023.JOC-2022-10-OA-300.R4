@@ -6,7 +6,6 @@
 # Description of Expirement
 <p>Selecting the most effective solution for NP-hard drives in cloud computing can be challenging due to the various solutions. To overcome that, we used a new framework called the Hybridized Optimization Algorithm combines Crow Swarm Optimization, Cuckoo Search Optimization, and Cat Hunting Optimization to create an ideal energy-efficient load-balancing model </p>
 <p>Cloud computing is gaining popularity due to its dynamic resource allocation and pay-per-use model. However, it faces issues like lower coverage, high integration rate, longer computation times, and complex operators. A unique Hybridized Optimization Algorithm is proposed, incorporating CSO, PSO, CSO, and CHO, to balance load, enhance resource profit, optimize global to local space, reduce user request waiting time, and ensure precise allotment with less energy consumption.</p>
-# ARCHITECTURE DIAGRAM 
-![image](https://github.com/sureshkumar543/2023.JOC-2022-10-OA-300.R4/assets/148966709/f592b6a1-01b8-4f37-a404-87de091e2a70)
+
 
 
